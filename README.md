@@ -2,6 +2,8 @@
 
 Ultimate Finance is a Starknet-native BTC Yield Vault designed to help Bitcoin holders earn sustainable yield without exposure to lending defaults or custodial risk.
 
+The protocol deploys BTC into transparent delta-neutral strategies while providing verifiable solvency through a ZK transparency layer.
+
 Instead of rehypothecation or undercollateralized lending, Ultimate Finance deploys BTC into transparent delta-neutral strategies such as funding rate capture and liquidity provisioning.
 
 ---
@@ -67,14 +69,7 @@ Focus:
 
 We use a mock BTC token for testing and demo purposes.
 
-Location:
-
-
-# Ultimate Finance
-
-Ultimate Finance is a Starknet-native BTC Yield Vault that enables Bitcoin holders to earn sustainable yield without lending risk, rehypothecation, or custodial exposure.
-
-The protocol deploys BTC into transparent delta-neutral strategies while providing verifiable solvency through a ZK transparency layer.
+Location
 
 ---
 
