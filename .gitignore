@@ -1,3 +1,6 @@
+# Cairo/Starknet build artifacts
+target/
+
 # Logs
 logs
 *.log
@@ -137,3 +140,7 @@ dist
 # Vite logs files
 vite.config.js.timestamp-*
 vite.config.ts.timestamp-*
+.snfoundry_cache/
+snfoundry_trace/
+coverage/
+profile/
